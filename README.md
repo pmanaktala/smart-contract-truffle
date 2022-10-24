@@ -8,10 +8,10 @@ We learnt that the number infront of migration file specifies the order in which
 We migrated our hello world contract and then finally invoked it using the comandline.
 
 ### Running Migrations
-![1](/scrennshots/1.png)
+![1](./scrennshots/1.png)
 
 ### Calling the Contract
-![2](/scrennshots/2.png)
+![2](./scrennshots/2.png)
 
 ## Part 2/4
 
@@ -20,11 +20,11 @@ method to ensure that we are using 1 ether for the transaction and also to ensur
 
 ### Calling without ether and account
 
-![4](/scrennshots/4.png)
+![4](./scrennshots/4.png)
 
 ### Calling with ether and account 
 
-![7](/scrennshots/7.png)
+![7](./scrennshots/7.png)
 
 Finally we created another helloWorld.sol file and used the .then() method in javascript to deploy the second hello world after the first hello world
 deployment is complete. We also created an instance to the first hello world, and used the value of the message variable to set the value while deploying
@@ -32,7 +32,7 @@ the second hello world in migration file.
 
 ### Screenshot 
 
-![7](/scrennshots/6.png)
+![7](./scrennshots/6.png)
 
 
 ## Part 3/4
@@ -41,7 +41,7 @@ In this part we added test cases to our code and learnt how to unit test. We add
 
 ### Screenshot 
 
-![7](/scrennshots/9.png)
+![7](./scrennshots/9.png)
 
 ## Part 4/4
 
